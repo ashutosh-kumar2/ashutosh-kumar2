@@ -1,5 +1,5 @@
 ## Hey Folks! This is Ashutosh 👋
-
+<!-- 
 <a href="https://www.linkedin.com/in/kumar-ashutosh2/">
   <img align="left" alt="Ashutosh Kumar | Linkedin" width="20px" src="https://raw.githubusercontent.com/ashutosh-kumar2/ashutosh-kumar2/master/images/linkedin.svg" />
 </a>
@@ -8,8 +8,9 @@
 </a>
 <a href="https://hashnode.com/@ashutoshkumar">
   <img align="left" alt="Ashutosh Kumar | Hashnode" width="20px" src="https://raw.githubusercontent.com/ashutosh-kumar2/ashutosh-kumar2/master/images/hashnode.svg" />
-</a>
+</a> -->
 
+<br />
 Thanks for dropping by. I'm a CS graduate and currently employed as a Software Engineer. In my spare time, I like working on my own projects, mostly based on Web Development. I also write blogs to document my learnings during this journey. If you would like to read them, please visit https://ashutoshkumar.hashnode.dev/.
 
 ### Technologies
