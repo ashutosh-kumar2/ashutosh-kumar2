@@ -10,13 +10,14 @@
   <img align="left" alt="Ashutosh Kumar | Hashnode" width="20px" src="https://raw.githubusercontent.com/ashutosh-kumar2/ashutosh-kumar2/master/images/hashnode.png" />
 </a>
 
-Visit my portfolio! <a href="https://kumarashutosh.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Ashutosh Kumar | Portfolio" width="20px" src="https://raw.githubusercontent.com/ashutosh-kumar2/ashutosh-kumar2/master/images/portfolio.png" />
-</a>
-
 <br />
 <br />
 Thanks for dropping by. I'm a CS graduate and currently employed as a Software Engineer. In my spare time, I like working on my own projects, mostly based on Web Development. I also write blogs to document my learnings during this journey. You can read my blogs <a href="https://ashutoshkumar.hashnode.dev/" target="_blank" rel="noopener noreferrer">here</a>.
+
+<br />
+Visit my portfolio! <a href="https://kumarashutosh.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Ashutosh Kumar | Portfolio" width="20px" src="https://raw.githubusercontent.com/ashutosh-kumar2/ashutosh-kumar2/master/images/portfolio.png" />
+</a>
 
 ### Technologies
 
