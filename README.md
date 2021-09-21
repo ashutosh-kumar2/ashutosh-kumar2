@@ -9,9 +9,7 @@
 <a href="https://hashnode.com/@ashutoshkumar" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Ashutosh Kumar | Hashnode" width="20px" src="https://raw.githubusercontent.com/ashutosh-kumar2/ashutosh-kumar2/master/images/hashnode.png" />
 </a>
-<a href="https://kumarashutosh.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Ashutosh Kumar | Portfolio" width="20px" src="https://raw.githubusercontent.com/ashutosh-kumar2/ashutosh-kumar2/master/images/portfolio.png" />
-</a>
+
 
 <br />
 <br />
