@@ -16,14 +16,10 @@ Thanks for dropping by. I'm a CS graduate and currently employed as a Software E
 
 <br />
 <br />
-👇 Visit my portfolio! 
+Visit my <a href="https://kumarashutosh.netlify.app/" target="_blank" rel="noopener noreferrer">portfolio</a>!
 <br />
 <br />
 
-<a href="https://kumarashutosh.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Ashutosh Kumar | Portfolio" width="20px" src="https://raw.githubusercontent.com/ashutosh-kumar2/ashutosh-kumar2/master/images/portfolio.png" />
-</a>
-<br />
 
 ### Technologies
 
