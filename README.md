@@ -17,8 +17,7 @@ Thanks for dropping by. I'm a CS graduate and currently employed as a Software E
 <br />
 <br />
 Visit my <a href="https://kumarashutosh.netlify.app/" target="_blank" rel="noopener noreferrer">portfolio</a>!
-<br />
-<br />
+
 
 
 ### Technologies
